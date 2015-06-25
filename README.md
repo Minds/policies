@@ -2,7 +2,7 @@
 
 This repository contains privacy policies and terms for Minds.com. 
 
-It is licensed under the Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US)
+All policies are licensed under the Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US)
 
 https://creativecommons.org/licenses/by-sa/3.0/us/
 
