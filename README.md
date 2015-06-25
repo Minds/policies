@@ -4,13 +4,11 @@ This repository contains privacy policies and terms for Minds.com.
 
 It is licensed under the Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US)
 
-Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US)
-
 https://creativecommons.org/licenses/by-sa/3.0/us/
 
 This is a human-readable summary of (and not a substitute for) the license.
 
- This license is acceptable for Free Cultural Works.
+This license is acceptable for Free Cultural Works.
 
 You are free to:
 
@@ -27,6 +25,7 @@ Notices:
 
 You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
 
 Legal Code
 
