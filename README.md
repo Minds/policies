@@ -1,2 +1,3 @@
-# policies
-Minds terms &amp; policies
+# Policies and Terms
+
+This repository contains privacy policies and terms for Minds.com. 
