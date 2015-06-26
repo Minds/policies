@@ -1,6 +1,6 @@
 # Policies and Terms
 
-This repository contains privacy policies and terms for Minds.com. 
+This repository contains privacy policies and terms for Minds.com adapted from https://wordpress.org
 
 All policies are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
